@@ -1,2 +1,2 @@
 # Resume-For-ADA
-My resume for Ada, written in Markdown.
+My resume for ADA, written in Markdown.
