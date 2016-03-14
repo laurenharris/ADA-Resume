@@ -1,4 +1,10 @@
 # Resume-For-ADA
+
+Lauren Harris  
+28 Fillmore Place, Brooklyn, NY 11211  
+loharris79@gmail.com  
+914-434-1082  
+
 My resume for ADA, written in Markdown.
 
 **EDUCATION**  
