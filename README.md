@@ -3,7 +3,7 @@
 My resume for ADA, written in Markdown.
 
 Lauren Harris  
-28 Fillmore Place, Brooklyn, NY 11211  
+28 Fillmore Place, #2, Brooklyn, NY 11211  
 loharris79@gmail.com  
 914-434-1082  
 
