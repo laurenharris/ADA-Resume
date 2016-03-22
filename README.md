@@ -51,7 +51,7 @@ with a substantive internship experience in documentary film production.
 
 **Artsnapper**, *Brooklyn, NY* | June 2013 – September 2013   
 *Video Intern*  
-• Conceptualized, edited and produced a short video introducing Artsnapper’s mobile application using Final Cut Pro and Photoshop.  
+• Conceptualizes, edites and produces a short video introducing Artsnapper’s mobile application using Final Cut Pro and Photoshop.  
 • Artsnapper is a website and mobile app that connects art lovers, artists, and art institutions.  
 
 **Found Object Films**, *Brooklyn, NY* | August 2012 – August 2013  
